@@ -5,8 +5,8 @@ beers listed.
 - We find statistically significant differences in taste in the four
 boroughs where we collected sufficient data (Staten Island, Brooklyn, Manhattan,
 and Queens).
-- We estimated the price per ounce of *alcohol* (not ounce of beer)
-of $10. Finally, we find
+- We estimated the price per ounce of *alcohol* (not per ounce of beer)
+of $10.
 - We find a statistically significant difference in prices based on the origin
 of the beer, with foreign beers most expensive, followed by beers outside New York
 state, and finally beers made in New York City or New York state statistically tied.
@@ -16,7 +16,7 @@ state, and finally beers made in New York City or New York state statistically t
 - Ravi Charan ([github](https://github.com/rcharan/))
 
 ## Background
-This is our second Flatiron School (NYC Data Science), for module 3
+This is our second Flatiron School project (NYC Data Science), for module 3
 
 See the presentation and conclusions on [Google Slides](https://docs.google.com/presentation/d/1MCm-oAfYUBigihPCMhawgKsBIC7iVu3WU9zfzCGGvuE/edit?usp=sharing) or view the pdf in our repository.
 
